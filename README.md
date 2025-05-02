@@ -21,6 +21,7 @@ This lets you smooth out shading while you are in subdivision mode and flat out 
 
 **Caution:** This only works when you've added a subdivision modifier on an object.
 
+**Bonus:** You can add a shortcut key to this button by right-clicking assign shortcut. I have added **SHIFT + ALT + R**.
 
 
 
