@@ -19,6 +19,8 @@ Either you can click on the Button or hold the shortcut key.
 ### Toggle Modifier + Shading
 This lets you smooth out shading while you are in subdivision mode and flat out when not in subdivision mode.
 
+**Caution:** This only works when you've added a subdivision modifier on an object.
+
 
 
 
