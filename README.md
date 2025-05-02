@@ -15,6 +15,11 @@ Simply go to the Sidepanel > Modifier tools
 
 Either you can click on the Button or hold the shortcut key.
 
+### Toggle Modifier + Shading
+This lets you smooth out shading while you are in subdivision mode and flat out when not in subdivision mode.
+
+
+
 
 
 
