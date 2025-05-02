@@ -3,7 +3,8 @@ This Addon is specifically for drawing pad/tablet users. (Mouse Users can still 
 
 Location - **3d Viewport > Npanel > Modifier Tools**
 
-![Screenshot 2025-05-02 154722](https://github.com/user-attachments/assets/926fc0ea-96bc-4763-942f-becc83e0b6c8)
+![Uploading Screenshot 2025-05-02 154722.png…]()
+
 
 ### Toggle Emulate 3 Mouse Button Mouse
 When working with multiple objects that share the same modifiers, you may need to hold the Alt key to apply an effect across all selected objects. However, if you are operating in Emulate 3 Mouse Button mode, this functionality may not be immediately accessible. In such cases, you can quickly toggle the setting using the designated keyboard shortcut or manually adjust it from the  Npanel.
