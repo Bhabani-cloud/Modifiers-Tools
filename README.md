@@ -1,9 +1,9 @@
-# Modifiers-Tools (Blender 4.4.0)
+# Modifiers-Tools 2 (Blender 4.4.0)
 This Addon is specifically for drawing pad/tablet users. (Mouse Users can still use this.)
 
 Location - **3d Viewport > Npanel > Modifier Tools**
 
-![Screenshot 2025-05-02 154722](https://github.com/user-attachments/assets/65e677a1-7aaa-41e9-b05d-aef5bda7f5a9)
+[![Screenshot 2025-05-02 154722](https://github.com/user-attachments/assets/65e677a1-7aaa-41e9-b05d-aef5bda7f5a9)](https://waifu2x.booru.pics/)
 
 
 ### Toggle Emulate 3 Mouse Button Mouse
@@ -23,6 +23,10 @@ This lets you smooth out shading while you are in subdivision mode and flat out 
 
 **Bonus:** You can add a shortcut key to this button by right-clicking assign shortcut. I have added **SHIFT + ALT + R**.
 
+### Toggle Auto Perspective
+This button lets you toggle on/off Auto Perspective Mode. 
+
+Shortcut key - CTRL + SHIFT + 2
 
 
 
