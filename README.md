@@ -3,7 +3,8 @@ This Addon is specifically for drawing pad/tablet users. (Mouse Users can still 
 
 Location - **3d Viewport > Npanel > Modifier Tools**
 
-[![Screenshot 2025-05-02 154722](https://github.com/user-attachments/assets/65e677a1-7aaa-41e9-b05d-aef5bda7f5a9)](https://waifu2x.booru.pics/)
+![Screenshot 2025-05-04 215840](https://github.com/user-attachments/assets/fc712008-ed99-4a5c-819d-34a9ec2c91b8)
+
 
 
 ### Toggle Emulate 3 Mouse Button Mouse
