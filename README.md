@@ -1,9 +1,10 @@
-# Modifiers-Tools 2 (Blender 4.4.0)
+# Modifier Tools Version 3.3 (Blender 4.4.0)
 This Addon is specifically for drawing pad/tablet users. (Mouse Users can still use this.)
 
 Location - **3d Viewport > Npanel > Modifier Tools**
 
-![Screenshot 2025-05-04 215840](https://github.com/user-attachments/assets/fc712008-ed99-4a5c-819d-34a9ec2c91b8)
+![Screenshot 2025-06-29 040235](https://github.com/user-attachments/assets/0d0bb6d2-6de8-4c91-8f98-3b9e0e008b2f)
+
 
 
 
