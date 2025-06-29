@@ -26,7 +26,7 @@ Simply go to the Sidepanel > Modifier tools
 Either you can click on the Button or hold the shortcut key.
 
 **Update v3_3:** Sometimes the Shortcut Key does not work when I restart Blender, so I had to re-enable the addon to work.
-I fixed this by adding the force restart addon. So whenever I open up my Blender file, it forcibly re-enables itself. And you don't have to go over and over again inside the preferences to re-enable this addon. (I gave a warning guidance: "If Emulate 3 Button fails at startup, open Preferences once." and re-enable the addon by the user.'although I fixed this') 
+I fixed this by adding the force restart addon. So whenever I open up my Blender file, it forcibly re-enables itself. And you don't have to go over and over again inside the preferences to re-enable this addon. (I gave a warning guidance: "If Emulate 3 Button fails at startup, open Preferences once." and re-enable the addon by the user. Although I fixed this.) 
 
 ### Toggle Modifier + Shading
 This lets you smooth out shading while you are in subdivision mode and flat out when not in subdivision mode.
@@ -38,8 +38,8 @@ This lets you smooth out shading while you are in subdivision mode and flat out 
 
 
 ### Gizmo Size
-This lets you resize the Gizmo Sizes as per the user needs.
-Slide the numbers or type in the numbers or you can hold down "Shift + F" key to resize the gizmo and release it.
+This lets you resize the Gizmo Sizes as per the user's needs.
+Slide the numbers or type in the numbers, or you can hold down "Shift + F" key to resize the gizmo and release it.
 
 To reset the size, you have to right-click on the number and "Reset to Default Value".
 
