@@ -34,6 +34,13 @@ This lets you smooth out shading while you are in subdivision mode and flat out 
 
 
 
+### Gizmo Size
+This lets you resize the Gizmo Sizes as per the user needs.
+Slide the numbers or type in the numbers or you can hold down "Shift + F" key to resize the gizmo and release it.
+
+To reset the size, you have to right-click on the number and "Reset to Default Value".
+
+Shortcut Key - Shift + F
 
 
 
