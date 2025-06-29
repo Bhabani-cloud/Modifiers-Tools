@@ -10,7 +10,8 @@ Location - **3d Viewport > Npanel > Modifier Tools**
 This button lets you toggle on/off Auto Perspective Mode.
 When you press the shortcut key or hit the button 'Toggle Auto Perspective' button on N-panel, Then it will allow you to lock the perspective.
 Basically it locks the Perspective Mode and doesnot switch to the orthographic Mode while you are in Perspective mode. If you only want the orthographic Mode to appear then you have to hit "Numpad 5" to change to Orthoraphic Mode and this one too would not change to Perspective Mode.
-Inorder to disable this function, You can toggle on/of the "Toggle Auto Perspective" button from N-panel. 
+
+In order to disable this function, You can toggle on/of the "Toggle Auto Perspective" button from N-panel. 
 
 Shortcut key - CTRL + SHIFT + 2
 
